@@ -5,7 +5,7 @@
     "name": "Dot Ring",
     "description": "DOT RING_黑白断环点阵表盘_圆点数字\n复刻_CMF dot_小米手环表盘 完完全全的复刻款，感觉任... \n白色断环包住圆点时间, 天气步数电量, 亮屏时边框闪电般闪烁, 简约设计\n欢迎在小红书关注我 @叫我Brin就好, 我会主要在 astrobox 平台更新资源\n后续会通过与astrobox内嵌的爱发电平台更新付费表盘的资源",
     "preview": [
-      "media/03-预览-断环海报.png",
+      "media/00-预览-Pro适配.webp",
       "media/04-预览-浅灰产品.png",
       "media/05-预览-办公室佩戴.png"
     ],
@@ -26,6 +26,28 @@
     }
   ],
   "downloads": {
+    "xmb9p": {
+      "version": "0.0.0",
+      "file_name": "downloads/Dot Ring Pro.face",
+      "versionCode": 0,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "0.0.0",
+      "file_name": "downloads/Dot Ring Pro.face",
+      "versionCode": 0,
+      "updatelogs": [
+        {
+          "version": "0.0.0",
+          "content": "新增小米手环 9 Pro / 10 Pro 支持（方屏专用包）"
+        }
+      ]
+    },
     "xmb11": {
       "version": "0.0.0",
       "file_name": "downloads/Dot Ring.bin",
@@ -47,5 +69,7 @@
       "versionCode": 0
     }
   },
-  "ext": {}
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
 }
